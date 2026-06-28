@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**chga86/chga86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C_Henrique/C_Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
